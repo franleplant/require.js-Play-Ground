@@ -1,0 +1,28 @@
+{
+  "name": "RequirejsTest",
+  "version": "0.0.0",
+  "authors": [
+    "franleplant <franleplant@gmail.com>"
+  ],
+  "description": "Play with requirejs",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "jquery": "~2.1.0",
+    "jqueryui": "~1.10.4"
+  }
+}

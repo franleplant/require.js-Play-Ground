@@ -1,0 +1,1 @@
+document.getElementsByTagName('div')[0].innerHTML = "IM NOT AN AMD, but I can work well with otherS! without any Shim";
